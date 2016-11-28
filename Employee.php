@@ -8,5 +8,8 @@
  */
 class Employee
 {
-
+    public function actionResult()
+    {
+        
+    }
 }
