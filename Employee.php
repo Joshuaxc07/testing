@@ -8,8 +8,18 @@
  */
 class Employee
 {
+
     public function actionResult()
     {
-        
+        $a = 23;
+        $y = 3;
+    echo " Answer " . $a * $y;
     }
+
+
+
+
 }
+
+$Emp = new Employee();
+$Emp->actionResult();
